@@ -1,0 +1,15 @@
+{
+  "mcpServers": {
+    "Demo": {
+      "type": "stdio",
+      "command": "D:/TestSpace/fastmcp_example/.venv/Scripts/python.exe",
+      "args": [
+        "server.py"
+      ],
+      "disabled": false,
+      "alwaysAllow": [
+        "get_now_weather"
+      ]
+    }
+  }
+}
